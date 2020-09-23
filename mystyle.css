@@ -1,0 +1,28 @@
+h1{
+    color: lightpink;
+    font-size: 500%;
+    font-family: fantasy;
+    margin-top: 25%%;
+    margin-bottom: 25%%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: dotted;
+    border-color: palevioletred;
+    padding-left: 5%;
+    padding-right: 5%;
+    }
+h2{
+    color: lightpink;
+    font-family: monospace;
+    font-size: 300%;
+    }
+body{
+    background-color: lavenderblush;
+    color: lightcoral
+    }
+ul{
+   Border: 5px solid black;
+    }
+form{
+    font-size: 200%;
+    }
